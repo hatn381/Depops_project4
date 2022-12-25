@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/docs/assets/img/docs/svg-passed.png)](https://app.circleci.com/pipelines/github/hatn381/Depops_project4?branch=main)
 
 ## Project Overview
 
